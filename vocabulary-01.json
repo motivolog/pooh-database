@@ -1,0 +1,35 @@
+{
+	"version": "0.0.1",
+	"dataset": [
+		{
+			"word": "naive",
+			"meaning": "toy, bön, sade, çaylak",
+			"type": "adjective"
+		},
+		{
+			"word": "ruin",
+			"meaning": "rezil etmek, bozmak, mahvetmek, canını okumak",
+			"type": "verb"
+		},
+		{
+			"word": "devised",
+			"meaning": "icat etmek, aklına gelmek",
+			"type": "verb"
+		},
+		{
+			"word": "confident",
+			"meaning": "kendinden emin, kendine güvenen",
+			"type": "adjective"
+		},
+		{
+			"word": "integral part of emotional intelligence",
+			"meaning": "duygusal zekanın ayrılmaz bir parçası",
+			"type": "phrase"
+		},
+		{
+			"word": "sought",
+			"meaning": "aranan olmak, rağbet görmek (seek'in ikinci hali)",
+			"type": "verb"
+		}
+	]
+}
