@@ -5,13 +5,13 @@
             "word": "naive",
             "meaning": "toy, bön, sade, çaylak",
             "type": "adjective",
-            "reminder": []
+            "reminders": []
         },
         {
             "word": "ruin",
             "meaning": "rezil etmek, bozmak, mahvetmek, canını okumak",
             "type": "verb",
-            "reminder": []
+            "reminders": []
         },
         {
             "word": "devised",
@@ -25,19 +25,19 @@
             "word": "confident",
             "meaning": "kendinden emin, kendine güvenen",
             "type": "adjective",
-            "reminder": ""
+            "reminders": ""
         },
         {
             "word": "integral part of emotional intelligence",
             "meaning": "duygusal zekanın ayrılmaz bir parçası",
             "type": "phrase",
-            "reminder": []
+            "reminders": []
         },
         {
             "word": "sought",
             "meaning": "aranan olmak, rağbet görmek (seek'in ikinci hali)",
             "type": "verb",
-            "reminder": [
+            "reminders": [
                 "past phrase of seek"
             ]
         }
