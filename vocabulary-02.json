@@ -1,0 +1,17 @@
+{
+    "version": "0.0.1",
+    "dataset": [
+        {
+            "word": "apple",
+            "meaning": "elma",
+            "type": "noun",
+            "reminders": []
+        },
+        {
+            "word": "banana",
+            "meaning": "muz",
+            "type": "noun",
+            "reminders": []
+        }
+    ]
+}
